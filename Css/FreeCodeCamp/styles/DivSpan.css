@@ -1,4 +1,4 @@
-div{
+.spiderman{
     color: red;
     background-color: black;
 }
@@ -6,4 +6,7 @@ span{
     color: brown;
     background-color: burlywood;
     text-transform: uppercase;
+}
+.batman{
+    color: darkgoldenrod;
 }
