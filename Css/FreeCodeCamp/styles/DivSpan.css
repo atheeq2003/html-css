@@ -1,0 +1,9 @@
+div{
+    color: red;
+    background-color: black;
+}
+span{
+    color: brown;
+    background-color: burlywood;
+    text-transform: uppercase;
+}
