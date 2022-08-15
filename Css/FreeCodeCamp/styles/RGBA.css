@@ -1,0 +1,18 @@
+/* rgba - opacity and transperancy */
+/* 0 to 1 - determines thickness of a color till 1. 1 is the max and 0 is the least  */
+#spidey{
+    color: red;
+    background: rgba(0,0,0,0.25);
+}
+#bat{
+    color: black;
+    background: rgba(0,0,0,0.50);
+}
+#hulk{
+    color: chartreuse;
+    background: rgba(0,0,0,0.75);
+}
+#thor{
+    color: blue;
+    background: rgba(0,0,0,1);
+}
