@@ -1,0 +1,15 @@
+#spidey{
+    color: red;
+    background: rgb(0,0,0);
+}
+#bat{
+    color: black;
+    background: rgb(123,89,24);
+}
+#hulk{
+    color: chartreuse;
+    background: rgb(54,77,45);
+}
+body{
+    background: rgb(33,22,11);
+}
