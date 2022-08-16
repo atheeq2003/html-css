@@ -1,0 +1,7 @@
+/* Font size, height, width, pixels */
+h2{
+    font-size: 50px;
+    width: 1000px;
+    background: red;
+    height: 600px;
+}
