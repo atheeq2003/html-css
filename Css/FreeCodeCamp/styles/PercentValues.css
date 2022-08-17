@@ -1,0 +1,11 @@
+/* it occupies 50% of the 500px */
+.outer{
+    width: 500px;
+    height: 500px;
+    background: red;
+}
+.inner{
+    width: 50%;
+    height: 50%;
+    background: yellow;
+}
