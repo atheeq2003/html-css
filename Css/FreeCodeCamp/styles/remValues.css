@@ -1,0 +1,20 @@
+/*
+rem    = RELATIVE does not depend on Parent, it depends on root 
+1rem   = 16px (Default browser style size)
+1rem     = base value
+Hence = 2rem = 16 * 16 = 32
+having div as parent does not change the size because it does not depend on parent
+rem depends on root. Here html is root (10px -> 2rem = 20px) therefore the size id changed
+ */
+html{
+    font-size: 10px;
+}
+.foundation{
+    font-size: 2rem;
+}
+.renovation{
+    font-size: 32px;
+}
+div{
+    font-size: 10px;
+}

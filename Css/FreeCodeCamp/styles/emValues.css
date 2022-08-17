@@ -1,7 +1,7 @@
 /*
 em    = RELATIVE depends on Parent 
 1em   = 16px (Default browser style size)
-1     = base value
+1em     = base value
 Hence = 2em = 16 * 16 = 32
 em depends on parent. Here div is parent (10px -> 2em = 20px)
  */
