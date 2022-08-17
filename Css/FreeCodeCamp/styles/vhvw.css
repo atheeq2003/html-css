@@ -1,0 +1,10 @@
+/*
+vh - viewheight = percent of screen 
+vw - viewwidth = percent of screen 
+90% of the screen os yellow the left is 10%
+ */
+.banner{
+    background-color: yellow;
+    width: 90vw;
+    height: 90vh;
+}
